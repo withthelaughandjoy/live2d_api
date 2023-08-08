@@ -1,5 +1,6 @@
 {
     "models": [
+        "horo"
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
         "bilibili-live/22",
@@ -34,6 +35,7 @@
         "horo"
     ],
     "messages": [
+        "咱是来自约伊兹的贤狼赫萝"
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "来自 Bilibili Live 的 22 哦 ~",
